@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+    <string name="minus">-</string>
+    <string name="multi">×</string>
+    <string name="divide">÷</string>
+    <string name="dot">.</string>
+    <string name="divide_by_zero">Oops! Divide by zero.</string>
+    <string name="patern">#.######################</string>
+</resources>
